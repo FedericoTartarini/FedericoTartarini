@@ -1,14 +1,12 @@
-### Hi, I'm Federico Tartarini 👋
+### Hi, I'm [Federico Tartarini][website] 👋
 
-I am an Enerfy Engineer by training and I am currently working as a postdoc at [SinBerBEST](https://sinberbest.berkeley.edu) a non-profit company of UC Berkeley. 
+I am an [Energy Engineer](https://corsi.unibo.it/2cycle/EnergyEngineering) by training and I am currently working as a postdoc at [SinBerBEST](https://sinberbest.berkeley.edu) a non-profit company of [UC Berkeley](https://www.berkeley.edu). 
 
 The focus of my work has mostly been on thermal comfort, Indoor Environmental Quality (IEQ), Heating Ventilation and Air Conditioning (HVAC) systems, development of non-intrusive methodologies to monitor IEQ parameters and software development.
 
 I am the main author of the Python package [pythermalcomfort] and one of the main developers of the [CBE Thermal Comfort Tool] and of the Cozie clock face for the Apple Watch - [Cozie Apple] and for the Fitbit - [Cozie Fitbit].
 
-In my spare time I have also created the website [Air Quality and Weather - Singapore] and the [application for Android](https://play.google.com/store/apps/details?id=com.airqualityapp&hl=en). The website allows you to check the weather forecast and air quality in Singapore.
-
-I received my PhD in 2017 from UOW during which I focused on determining the impact of IEQ on perceptions of occupants (staff and residents) and agitated behaviors of residents at aged care facilities. I am actively collaborating with the International Energy Agency EBC Annex 69 "Strategy and Practice of Adaptive Thermal Comfort in Low Energy Buildings". 
+I am also the author of the website [Air Quality and Weather - Singapore] and the [application for Android](https://play.google.com/store/apps/details?id=com.airqualityapp&hl=en). The website allows you to check the weather forecast and air quality in Singapore.
 
 ---
 ### Connect with me:
