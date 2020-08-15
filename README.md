@@ -23,10 +23,10 @@ I received my PhD in 2017 from UOW during which I focused on determining the imp
 
 ### Projects:
 
-[<img align="left" alt="pythermalcomfort" width="22%" src="https://github.com/FedericoTartarini/FedericoTartarini.github.io/blob/master/img/portfolio/pythermalcomfort.png" />][pythermalcomfort]
-[<img align="left" alt="CBE Thermal Comfort Tool" width="22%" src="https://github.com/FedericoTartarini/FedericoTartarini.github.io/blob/master/img/portfolio/comforttool.png" />][CBE Thermal Comfort Tool]
-[<img align="left" alt="Cozie Fitbit" width="22%" src="https://github.com/FedericoTartarini/FedericoTartarini.github.io/blob/master/img/portfolio/cozie.png" />][Cozie Fitbit]
-[<img align="left" alt="Cozie Fitbit" width="22%" src="https://github.com/FedericoTartarini/FedericoTartarini.github.io/blob/master/img/portfolio/air-quality-sg-android.png" />][Air Quality and Weather - Singapore]
+[<img align="left" alt="pythermalcomfort" width="20%" src="https://github.com/FedericoTartarini/FedericoTartarini.github.io/blob/master/img/portfolio/pythermalcomfort.png" />][pythermalcomfort]
+[<img align="left" alt="CBE Thermal Comfort Tool" width="20%" src="https://github.com/FedericoTartarini/FedericoTartarini.github.io/blob/master/img/portfolio/comforttool.png" />][CBE Thermal Comfort Tool]
+[<img align="left" alt="Cozie Fitbit" width="20%" src="https://github.com/FedericoTartarini/FedericoTartarini.github.io/blob/master/img/portfolio/cozie.png" />][Cozie Fitbit]
+[<img align="left" alt="Cozie Fitbit" width="20%" src="https://github.com/FedericoTartarini/FedericoTartarini.github.io/blob/master/img/portfolio/air-quality-sg-android.png" />][Air Quality and Weather - Singapore]
 
 
 [website]: https://federicotartarini.github.io
