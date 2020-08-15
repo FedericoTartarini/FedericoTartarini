@@ -19,7 +19,8 @@ I received my PhD in 2017 from UOW during which I focused on determining the imp
 [<img align="left" alt="Federico Tartarini | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Federico Tartarini | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
----
+
+
 ### Projects:
 
 [<img align="left" alt="pythermalcomfort" width="100px" src="https://github.com/FedericoTartarini/FedericoTartarini.github.io/blob/master/img/portfolio/pythermalcomfort.png" />][pythermalcomfort]
