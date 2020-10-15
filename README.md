@@ -35,5 +35,5 @@ I am also the author of the website [Air Quality and Weather - Singapore] and th
 [pythermalcomfort]: https://pythermalcomfort.readthedocs.io/en/latest/readme.html
 [CBE Thermal Comfort Tool]: https://comfort.cbe.berkeley.edu
 [Air Quality and Weather - Singapore]: https://weathersg.com
-[Cozie Apple]: https://cozie-apple.netlify.app
+[Cozie Apple]: https://cozie-apple.app
 [Cozie Fitbit]: https://cozie.app
