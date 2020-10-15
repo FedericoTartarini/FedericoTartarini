@@ -7,6 +7,7 @@ The focus of my work has mostly been on thermal comfort, Indoor Environmental Qu
 I am the author of [pythermalcomfort] and [Cozie Apple] and one of the main developers of the [CBE Thermal Comfort Tool] and [Cozie Fitbit].
 
 I am also the author of the websites [COVID-19 aerosol infection risk estimator], [Air Quality and Weather - Singapore], and [Dengue Singapore].
+
 ---
 ### Connect with me:
 
