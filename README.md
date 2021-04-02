@@ -4,9 +4,11 @@ I am an [Energy Engineer](https://corsi.unibo.it/2cycle/EnergyEngineering) by tr
 
 The focus of my work has mostly been on thermal comfort, Indoor Environmental Quality (IEQ), Heating Ventilation and Air Conditioning (HVAC) systems, and software development.
 
-I am the author of [pythermalcomfort] and [Cozie Apple] and one of the main developers of the [CBE Thermal Comfort Tool] and [Cozie Fitbit].
+I am the author of [pythermalcomfort] and [Cozie Apple] and one of the main developers of the [CBE Thermal Comfort Tool] and [Cozie Fitbit]. I am also an educator on YouTube. Visit my [YouTube channel], I am sure you will find some of my videos useful if you use LaTeX, Python, PyCharm, Beamer, Docusaurus, ReactJS, etc.
 
 I am also the author of the websites [COVID-19 aerosol infection risk estimator], [Air Quality and Weather - Singapore], and [Dengue Singapore].
+
+You can support my work by [buying me a coffe] ☕!! 
 
 ---
 ### Connect with me:
@@ -39,3 +41,5 @@ I am also the author of the websites [COVID-19 aerosol infection risk estimator]
 [Cozie Fitbit]: https://cozie.app
 [Dengue Singapore]: https://dengue-singapore.netlify.app
 [COVID-19 aerosol infection risk estimator]: https://covid-infection-risk.netlify.app
+[buying me a coffe]: https://www.buymeacoffee.com/FedericoT
+[YouTube channel]: https://www.youtube.com/channel/UCRjhrVMfeAurqHm4BnTNgyw
