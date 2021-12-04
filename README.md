@@ -13,11 +13,11 @@ You can support my work by [buying me a coffe] ☕, on [Patreon] or [sponsoring 
 ---
 ### Connect with me:
 
-[<img align="left" alt="Federico Tartarini | website" width="22px" src="https://img.icons8.com/material-rounded/24/000000/user-male-circle.png" />][website]
-[<img align="left" alt="Federico Tartarini | Google Scholar" width="22px" src="https://img.icons8.com/material-rounded/24/000000/google-scholar.png" />][scholar]
-[<img align="left" alt="Federico Tartarini | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Federico Tartarini | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Federico Tartarini | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Federico Tartarini | website" width="22px" src="https://img.icons8.com/material-rounded/24/555555/user-male-circle.png" />][website]
+[<img align="left" alt="Federico Tartarini | Google Scholar" width="22px" src="https://img.icons8.com/color/48/000000/google-scholar--v3.png" />][scholar]
+[<img align="left" alt="Federico Tartarini | YouTube" width="22px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
+[<img align="left" alt="Federico Tartarini | Twitter" width="22px" src="https://img.icons8.com/color/50/000000/twitter--v1.png" />][twitter]
+[<img align="left" alt="Federico Tartarini | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
 <br />
 
