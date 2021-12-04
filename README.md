@@ -8,7 +8,7 @@ I am the author of [pythermalcomfort] and [Cozie Apple] and one of the main deve
 
 I am also the author of the websites [COVID-19 aerosol infection risk estimator], [Air Quality and Weather - Singapore], and [Dengue Singapore].
 
-You can support my work by [buying me a coffe] ☕!! 
+You can support my work by [buying me a coffe] ☕, on [Patreon] or [sponsoring me on GitHub] !!
 
 ---
 ### Connect with me:
@@ -43,3 +43,5 @@ You can support my work by [buying me a coffe] ☕!!
 [COVID-19 aerosol infection risk estimator]: https://covid-infection-risk.netlify.app
 [buying me a coffe]: https://www.buymeacoffee.com/FedericoT
 [YouTube channel]: https://www.youtube.com/channel/UCRjhrVMfeAurqHm4BnTNgyw
+[Patreon]: https://www.patreon.com/federicotartarini
+[sponsoring me on GitHub]: https://github.com/sponsors/FedericoTartarini
