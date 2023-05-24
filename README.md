@@ -1,9 +1,9 @@
 ### Hi, I'm [Federico Tartarini][website] 👋
 
-I'm an [Energy Engineer](https://corsi.unibo.it/2cycle/EnergyEngineering) with a passion for research and software development. 
-Currently, I work as a Senior Research Associate at the [Heat and Health Research Incubator]([https://sinberbest.berkeley.edu](https://www.sydney.edu.au/medicine-health/our-research/research-centres/heat-and-health-research-incubator.html)) at the [University of Sydney]([https://www.berkeley.edu](https://www.sydney.edu.au/)). 
+I'm an 👨‍💻🔬 [Energy Engineer](https://corsi.unibo.it/2cycle/EnergyEngineering) with a passion for research and software development. 
+Currently, I work as a 👨‍🔬 Senior Research Associate at the [Heat and Health Research Incubator]([https://sinberbest.berkeley.edu](https://www.sydney.edu.au/medicine-health/our-research/research-centres/heat-and-health-research-incubator.html)) at the [University of Sydney]([https://www.berkeley.edu](https://www.sydney.edu.au/)). 
 
-My work primarily revolves around thermal comfort, Indoor Environmental Quality (IEQ), Heating Ventilation and Air Conditioning (HVAC) systems, thermoregulation, and software development. You can access read my papers on [Google Scholar](https://scholar.google.com/citations?user=QcamSPwAAAAJ&hl=en).
+My work primarily revolves around thermal comfort, Indoor Environmental Quality (IEQ), Heating Ventilation and Air Conditioning (HVAC) systems, thermoregulation, and software development. You can access read my papers on [Google Scholar](https://scholar.google.com/citations?user=QcamSPwAAAAJ&hl=en) [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-8739-5062&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0002-8739-5062)
 
 I'm proud to have contributed to various projects, including: 
 * [pythermalcomfort] - to calculate complex thermal comfort and heat stress indexes.
