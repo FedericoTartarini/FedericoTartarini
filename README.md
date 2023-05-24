@@ -1,14 +1,23 @@
 ### Hi, I'm [Federico Tartarini][website] 👋
 
-I am an [Energy Engineer](https://corsi.unibo.it/2cycle/EnergyEngineering) by training and I am currently working as a postdoc at [SinBerBEST](https://sinberbest.berkeley.edu) a non-profit company of [UC Berkeley](https://www.berkeley.edu). 
+I'm an [Energy Engineer](https://corsi.unibo.it/2cycle/EnergyEngineering) with a passion for research and software development. 
+Currently, I work as a Senior Research Associate at the [Heat and Health Research Incubator]([https://sinberbest.berkeley.edu](https://www.sydney.edu.au/medicine-health/our-research/research-centres/heat-and-health-research-incubator.html)) at the [University of Sydney]([https://www.berkeley.edu](https://www.sydney.edu.au/)). 
 
-The focus of my work has mostly been on thermal comfort, Indoor Environmental Quality (IEQ), Heating Ventilation and Air Conditioning (HVAC) systems, and software development.
+My work primarily revolves around thermal comfort, Indoor Environmental Quality (IEQ), Heating Ventilation and Air Conditioning (HVAC) systems, thermoregulation, and software development. You can access read my papers on [Google Scholar](https://scholar.google.com/citations?user=QcamSPwAAAAJ&hl=en).
 
-I am the author of [pythermalcomfort] and [Cozie Apple] and one of the main developers of the [CBE Thermal Comfort Tool] and [Cozie Fitbit]. I am also an educator on YouTube. Visit my [YouTube channel], I am sure you will find some of my videos useful if you use LaTeX, Python, PyCharm, Beamer, Docusaurus, ReactJS, etc.
+I'm proud to have contributed to various projects, including: 
+* [pythermalcomfort] - to calculate complex thermal comfort and heat stress indexes.
+* [Cozie Apple] - a framework to collect feedback from building occupants and physiological data in real time.
+* [CBE Thermal Comfort Tool] - to calculate and visulise the results of complex thermal comfort calculations.
+* [CBE Clima Tool] - to perform a climate analysis, specifically designed to help of architects and engineers.
+* [Sports and Medicine Australia - Extreme Heat Tool] - to provide evidence-based guidance to protect the health of those participating in sports.
+* [Cozie Fitbit].
 
-I am also the author of the websites [COVID-19 aerosol infection risk estimator], [Air Quality and Weather - Singapore], and [Dengue Singapore].
+I'm also passionate about education, and you can find me sharing my knowledge on YouTube. Check out my [YouTube channel] if you're interested in learning about LaTeX, Python, PyCharm, Beamer, Docusaurus, ReactJS, and more. I'm confident you'll find my videos helpful.
 
-You can support my work by [buying me a coffe] ☕, on [Patreon] or [sponsoring me on GitHub] !!
+Additionally, I've authored several websites that cater to different interests. You can explore the [COVID-19 aerosol infection risk estimator], [Air Quality and Weather - Singapore], and [Dengue Singapore] to access valuable information in those domains.
+
+Let's collaborate and make a difference together!
 
 ---
 ### Connect with me:
@@ -36,6 +45,7 @@ You can support my work by [buying me a coffe] ☕, on [Patreon] or [sponsoring 
 [linkedin]: https://www.linkedin.com/in/federico-tartarini-3991995b/
 [pythermalcomfort]: https://pythermalcomfort.readthedocs.io/en/latest/readme.html
 [CBE Thermal Comfort Tool]: https://comfort.cbe.berkeley.edu
+[CBE Clima Tool]: https://clima.cbe.berkeley.edu/
 [Air Quality and Weather - Singapore]: https://weathersg.com
 [Cozie Apple]: https://cozie-apple.app
 [Cozie Fitbit]: https://cozie.app
@@ -45,3 +55,4 @@ You can support my work by [buying me a coffe] ☕, on [Patreon] or [sponsoring 
 [YouTube channel]: https://www.youtube.com/channel/UCRjhrVMfeAurqHm4BnTNgyw
 [Patreon]: https://www.patreon.com/federicotartarini
 [sponsoring me on GitHub]: https://github.com/sponsors/FedericoTartarini
+[Sports and Medicine Australia - Extreme Heat Tool]: https://sma-heat-policy.sydney.edu.au/
