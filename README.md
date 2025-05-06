@@ -49,8 +49,10 @@ I have also authored several public-facing web tools:
 🤝 Support and Collaboration
 
 I am open to collaborations with researchers, students, and industry partners. If you find my work valuable, you can support my efforts by:
-* [Supporting me on Patreon](https://patreon.com/federicotartarini?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
 * [Buy me a coffee](https://buymeacoffee.com/federicot)
+* [Stripe](https://buy.stripe.com/6oEcPK28pfgt4b6cMM)
+* [PayPal](https://paypal.me/FedericoTartarini)
+* [Supporting me on Patreon](https://patreon.com/federicotartarini?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
 
 ---
 ### Connect with me:
