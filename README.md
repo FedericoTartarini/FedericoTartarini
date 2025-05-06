@@ -1,27 +1,56 @@
 ### Hi, I'm [Federico Tartarini][website] 👋
 
-I'm an 👨‍💻🔬 [Energy Engineer](https://corsi.unibo.it/2cycle/EnergyEngineering) with a passion for research and software development. 
-I am an Horizon Fellow | Senior Lecturer at the School of Architecture Design and Planning at the [University of Sydney]([https://www.berkeley.edu](https://www.sydney.edu.au/)). 
+I am a Horizon Fellow and Senior Lecturer in the School of Architecture, Design and Planning at the [University of Sydney](https://www.sydney.edu.au/). 
+My background is in 👨‍💻🔬 [Energy Engineering](https://corsi.unibo.it/2cycle/EnergyEngineering).
+I am passionate about research and open-source software development. 
+My academic work focuses on human thermal comfort, indoor environmental quality (IEQ), HVAC systems, thermoregulation, and physiological sensing.
 
-My work primarily revolves around thermal comfort, Indoor Environmental Quality (IEQ), Heating Ventilation and Air Conditioning (HVAC) systems, thermoregulation, and software development. You can read my papers on [Google Scholar](https://scholar.google.com/citations?user=QcamSPwAAAAJ&hl=en) [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-8739-5062&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0002-8739-5062)
+My mission is to enable evidence-based, occupant-centric building design through transparent and accessible tools. 
+I actively contribute to open science by developing and maintaining free, open-source software for researchers and practitioners in the built environment.
 
-I'm proud to have contributed to various projects, including: 
-* [pythermalcomfort] - to calculate complex thermal comfort and heat stress indexes.
-* [HeatWatch] - calculates personalised heat stress risk and provides evidence-based recommendations.
-* [CBE Thermal Comfort Tool] - to calculate and visualise the results of complex thermal comfort calculations.
-* [Cozie Apple] - a framework to collect feedback from building occupants and physiological data in real time.
-* [CBE Clima Tool] - to perform a climate analysis, specifically designed to help architects and engineers.
-* [Sports and Medicine Australia - Extreme Heat Tool] - to provide evidence-based guidance to protect the health of those participating in sports.
-* [Cozie Fitbit].
+You can explore my publications on [Google Scholar](https://scholar.google.com/citations?user=QcamSPwAAAAJ&hl=en) [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-8739-5062&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0002-8739-5062)
 
-I'm also passionate about education, and you can find me sharing my knowledge on my [YouTube channel].
-You can learn about LaTeX, Python, Typst, PyCharm, Beamer, Docusaurus, ReactJS, and more there. 
-I'm confident you'll find my videos helpful.
+🔧 Key Projects
+I have contributed to the development of several research tools and applications:
 
-Additionally, I've authored several websites that cater to different interests. 
-You can explore the [COVID-19 aerosol infection risk estimator], [Air Quality and Weather - Singapore], and [Dengue Singapore] to access valuable information in those domains.
+* [pythermalcomfort] - to calculate thermal comfort and heat stress indices based on international standards.
+* [HeatWatch] - provides personalised heat stress risk scores and evidence-based cooling recommendations.
+* [CBE Thermal Comfort Tool] — an interactive online calculator for evaluating thermal comfort conditions.
+* [Cozie Apple] - a real-time data collection framework for building occupant feedback and physiological sensing.
+* [CBE Clima Tool] - supports climate-driven design decisions for architects and engineers through climate data analysis.
+* [Sports and Medicine Australia - Extreme Heat Tool] - offers practical guidance to mitigate heat risks during sports activities.
+* [Cozie Fitbit] - etends the Cozie framework to Fitbit devices for real-world physiological data collection.
 
-Let's collaborate and make a difference together!
+🎓 Research Interests
+
+* Human thermal comfort modelling and indices
+* Indoor environmental quality (IEQ) assessment
+* Physiological data acquisition and interpretation
+* Software tools for occupant-centric building design
+
+🎥 Educational Content
+
+I regularly share knowledge and tutorials on my [YouTube channel], covering topics including:
+
+* LaTeX and Beamer
+* Python
+* Typst
+* PyCharm
+* Docusaurus
+* ReactJS
+
+🌍 Outreach Websites
+I have also authored several public-facing web tools:
+
+* [COVID-19 aerosol infection risk estimator] — Models aerosol transmission risks in indoor spaces.
+* [Air Quality and Weather - Singapore] - Real-time air quality and meteorological data.
+* [Dengue Singapore] - Tracks dengue risk using real-time weather and public health data
+
+🤝 Support and Collaboration
+
+I am open to collaborations with researchers, students, and industry partners. If you find my work valuable, you can support my efforts by:
+* [Supporting me on Patreon](https://patreon.com/federicotartarini?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
+* [Buy me a coffee](https://buymeacoffee.com/federicot)
 
 ---
 ### Connect with me:
@@ -33,7 +62,6 @@ Let's collaborate and make a difference together!
 [<img align="left" alt="Federico Tartarini | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
 <br />
-
 
 [website]: https://federicotartarini.github.io
 [scholar]: https://scholar.google.com/citations?user=QcamSPwAAAAJ&hl=en
